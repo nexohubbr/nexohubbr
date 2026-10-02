@@ -28,7 +28,7 @@ Abaixo estão os pilares do nosso ecossistema. *(Em processo de migração para 
 | 🏢 Projeto / Marca | 🔗 Repositório Atual | 📝 Descrição Breve |
 | :--- | :--- | :--- |
 | **Compre Legal** | [Ver Solução](https://lucianofs.github.io/compre-legal) | Hub de pagamento e intermediação de vendas 360º. |
-| **Perfumes Itabuna** | [Ver Solução]([https://lucianofs.github.io/perfumes-itabuna) | E-commerce de fragrâncias nacionais e importadas. |
+| **Perfumes Itabuna** | [Ver Solução](https://lucianofs.github.io/perfumes-itabuna) | E-commerce de fragrâncias nacionais e importadas. |
 | **Doce Raiz** | [Ver Solução]([https://lucianofs.github.io/doceraiz) | Produtos artesanais e gastronomia de alta qualidade. |
 | **Resort & Hotel** | [Ver Solução](https://lucianofs.github.io/resort) | Soluções digitais para o setor de hospitalidade e turismo. |
 | **MeuTube** | [Ver Solução](https://lucianofs.github.io/meutube) | Plataforma de conteúdo e streaming. |
