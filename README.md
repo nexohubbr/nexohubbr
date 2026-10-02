@@ -32,7 +32,7 @@ Abaixo estão os pilares do nosso ecossistema. *(Em processo de migração para 
 | **Doce Raiz** | [Ver Solução](https://lucianofs.github.io/doceraiz) | Produtos artesanais e gastronomia de alta qualidade. |
 | **Resort & Hotel** | [Ver Solução](https://lucianofs.github.io/resort) | Soluções digitais para o setor de hospitalidade e turismo. |
 | **MeuTube** | [Ver Solução](https://lucianofs.github.io/meutube) | Plataforma de conteúdo e streaming. |
-| **Revmind** | [Ver Solução](https://lucianofs.github.io/revmind) | Soluções inovadoras em tecnologia e mente. |
+| **Revmind** | [Ver Soluçao](https://revmind.streamlit.app/) | Soluções inovadoras em tecnologia e mente. |
 | **Sumário Executivo** | [Ver Solução](https://lucianofs.github.io/sumarioexecutivo) | Estruturação de documentos e inteligência corporativa. |
 | **Consultoria de Dados** | [Ver Solução](https://lucianofs.github.io/consultoria-de-dados) | Análise de dados para tomada de decisão estratégica. |
 | **CFO da Alma** | [Ver Solução](https://lucianofs.github.io/cfodaalma) | Consultoria holística para negócios e vida pessoal. |
