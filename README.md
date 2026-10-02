@@ -35,7 +35,7 @@ Abaixo estão os pilares do nosso ecossistema. *(Em processo de migração para 
 | **Revmind** | [Ver Soluçao](https://revmind.streamlit.app/) | Soluções inovadoras em tecnologia e mente. |
 | **Sumário Executivo** | [Ver Solução](https://lucianofs.github.io/sumarioexecutivo) | Estruturação de documentos e inteligência corporativa. |
 | **Consultoria de Dados** | [Ver Solução](https://lucianofs.github.io/consultoria-de-dados) | Análise de dados para tomada de decisão estratégica. |
-| **CFO da Alma** | [Ver Solução](https://lucianofs.github.io/cfodaalma) | Consultoria holística para negócios e vida pessoal. |
+| **CFO da Alma** | [Ver Solução](https://lucianofs.github.io/cfo-alma-negocio) | Consultoria holística para negócios e vida pessoal. |
 
 ---
 
