@@ -27,15 +27,15 @@ Abaixo estão os pilares do nosso ecossistema. *(Em processo de migração para 
 
 | 🏢 Projeto / Marca | 🔗 Repositório Atual | 📝 Descrição Breve |
 | :--- | :--- | :--- |
-| **Compre Legal** | [Ver Código](https://github.com/Lucianofs) | Hub de pagamento e intermediação de vendas 360º. |
-| **Perfumes Itabuna** | [Ver Código](https://github.com/Lucianofs/perfumes-itabuna) | E-commerce de fragrâncias nacionais e importadas. |
-| **Doce Raiz** | [Ver Código](https://github.com/Lucianofs/doceraiz) | Produtos artesanais e gastronomia de alta qualidade. |
-| **Resort & Hotel** | [Ver Código](https://github.com/Lucianofs/resort) | Soluções digitais para o setor de hospitalidade e turismo. |
-| **MeuTube** | [Ver Código](https://github.com/Lucianofs/meutube) | Plataforma de conteúdo e streaming. |
-| **Revmind** | [Ver Código](https://github.com/Lucianofs/revmind) | Soluções inovadoras em tecnologia e mente. |
-| **Sumário Executivo** | [Ver Código](https://github.com/Lucianofs/sumarioexecutivo) | Estruturação de documentos e inteligência corporativa. |
-| **Consultoria de Dados** | [Ver Código](https://github.com/Lucianofs/consultoria-de-dados) | Análise de dados para tomada de decisão estratégica. |
-| **CFO da Alma** | [Ver Código](https://github.com/Lucianofs/cfodaalma) | Consultoria holística para negócios e vida pessoal. |
+| **Compre Legal** | [Ver Solução](https://lucianofs.github.io/compre-legal) | Hub de pagamento e intermediação de vendas 360º. |
+| **Perfumes Itabuna** | [Ver Solução]([https://lucianofs.github.io/perfumes-itabuna) | E-commerce de fragrâncias nacionais e importadas. |
+| **Doce Raiz** | [Ver Solução]([https://lucianofs.github.io/doceraiz) | Produtos artesanais e gastronomia de alta qualidade. |
+| **Resort & Hotel** | [Ver Solução](https://lucianofs.github.io/)/resort) | Soluções digitais para o setor de hospitalidade e turismo. |
+| **MeuTube** | [Ver Solução](https://lucianofs.github.io/meutube) | Plataforma de conteúdo e streaming. |
+| **Revmind** | [Ver Solução](https://lucianofs.github.io/revmind) | Soluções inovadoras em tecnologia e mente. |
+| **Sumário Executivo** | [Ver Solução](https://lucianofs.github.io/sumarioexecutivo) | Estruturação de documentos e inteligência corporativa. |
+| **Consultoria de Dados** | [Ver Solução](https://lucianofs.github.io/consultoria-de-dados) | Análise de dados para tomada de decisão estratégica. |
+| **CFO da Alma** | [Ver Solução](https://lucianofs.github.io/cfodaalma) | Consultoria holística para negócios e vida pessoal. |
 
 ---
 
